@@ -1,11 +1,13 @@
 # waterOnTheFire
 First-in-Engine Timed Exercise Training Prop
 
+This is my first Node-Red project, hopefully the first of many.
+
 Node-red version 0.20.5
 
 Node.JS version 10.15.3
 
-My name is Judah. I am a volunteer firefighter who has been experimenting with Node-Red and a Raspberry Pi to make training more interesting/fun and introduce a basic level of competitiveness that will hopefully encourage new members to join and get involved.
+I am a volunteer firefighter who has been experimenting with Node-Red and a Raspberry Pi to make training more interesting/fun and introduce a basic level of competitiveness that will hopefully encourage new members to join and get involved.
 
 This project is my first attempt and grew from a Pi Zero W stuck in a hollow vinyl post cover with some LEDs drilled into it and a 5 gallon bucket with a float switch into what it is at this point.
 
