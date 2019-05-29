@@ -17,7 +17,7 @@ The Hardware is powered vie a PoE+ injector and splitter that is fed from the En
 
 Each prop is two metal 55 gallon drums welded together to create a chute/reservoir target for the hose team.
 
-Goal is for two teams to race each other and the clock to get the best time through a course/series of actions that culminates in filling a prop to a depth of ~20". The props are continuously drained via a 2" nipple at the base. With a 1.75" attack line/fog nozzle combo flowing 150 GPM at a distance of 30 feet, a properly controlled straight stream in calm conditions can fill the prop in about 40 seconds. Wind, distance and other complicating factors can extend this time even with excellent nozzle control.
+Goal is for two teams to race each other and the clock to get the best time through a course/series of actions that culminates in filling a prop to a depth of ~20". The props are continuously drained via a 2" nipple at the base. With a 1.75" attack line/fog nozzle combo flowing 150 GPM at a distance of 30 feet, a properly controlled straight stream in calm conditions can fill the prop in under 40 seconds. Wind, distance and other complicating factors can extend this time even with excellent nozzle control.
 
 Water depth is obtained via an HC-SR04 ultrasonic sensor mounted in the cap of a 2" PVC pipe mounted vertically in the reservoir.
 
